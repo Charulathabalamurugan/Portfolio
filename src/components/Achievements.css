@@ -1,0 +1,19 @@
+/* src/components/Achievements.css */
+
+.achievements {
+  background-color: #e6c07b;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: left;
+  margin-top: 20px;
+}
+
+.certifications,
+.extracurricular {
+  margin-top: 10px;
+}
+
+h3 {
+  margin-bottom: 10px;
+  color: #333;
+}

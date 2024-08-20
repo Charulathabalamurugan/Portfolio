@@ -1,0 +1,41 @@
+.header {
+  background-color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-content h1 {
+  color: #000;
+  margin: 0;
+}
+
+.header-content nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+}
+
+.header-content nav ul li {
+  display: inline;
+}
+
+.header-content nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+
+.header-intro {
+  color: #000;
+  padding: 1rem;
+}
+
+.header-intro h2 {
+  margin: 0.5rem 0;
+}
